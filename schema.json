@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema",
-  "$id": "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/public/okrs/schema.json",
+  "$id": "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/schema.json",
   "title": "OKR",
   "description": "Object and Key Results with progress",
   "type": "object",
