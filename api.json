@@ -1,0 +1,103 @@
+{
+  "updatedAt": "2021-12-23T14:12:55.840Z",
+  "years": [
+    {
+      "name": 2021,
+      "progress": 0.62,
+      "success": 0.63,
+      "quarters": [
+        {
+          "name": 4,
+          "progress": 0.62,
+          "success": 0.67,
+          "objectives": [
+            {
+              "name": "Start getting healthy",
+              "progress": 0.75,
+              "success": 0.82,
+              "key_results": [
+                {
+                  "name": "Work out twice a week",
+                  "current_result": 12,
+                  "target_result": 24,
+                  "progress": 0.5,
+                  "success": 0.54
+                },
+                {
+                  "name": "Stay under 1,700 kcal/day",
+                  "current_result": 78,
+                  "target_result": 91,
+                  "progress": 0.86,
+                  "success": 0.93
+                },
+                {
+                  "name": "Lose 10 kg by birthday",
+                  "current_result": 9,
+                  "target_result": 10,
+                  "progress": 0.9,
+                  "success": 0.98
+                }
+              ]
+            },
+            {
+              "name": "Get back to work",
+              "progress": 0.43,
+              "success": 0.47,
+              "key_results": [
+                {
+                  "name": "[redacted]",
+                  "current_result": 0.4485,
+                  "target_result": 1,
+                  "progress": 0.45,
+                  "success": 0.49
+                },
+                {
+                  "name": "Do proper 1:1s with reports",
+                  "current_result": 10,
+                  "target_result": 12,
+                  "progress": 0.83,
+                  "success": 0.91
+                },
+                {
+                  "name": "Read 1 book per month",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Get ready for 2022",
+              "progress": 0.67,
+              "success": 0.73,
+              "key_results": [
+                {
+                  "name": "Register Dutch subsidiary",
+                  "current_result": 1,
+                  "target_result": 1,
+                  "progress": 1,
+                  "success": 1.09
+                },
+                {
+                  "name": "Apply for residence permit",
+                  "current_result": 1,
+                  "target_result": 1,
+                  "progress": 1,
+                  "success": 1.09
+                },
+                {
+                  "name": "Have [redacted] in savings",
+                  "current_result": 0,
+                  "target_result": 1000,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
