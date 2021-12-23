@@ -23,7 +23,7 @@ jobs:
       - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: Generate API and README summary"
+          commit_message: "chore: Generate API and README summary [skip ci]"
           commit_user_name: FindingAnand
           commit_user_email: bot@anandchowdhary.com
           commit_author: FindingAnand <bot@anandchowdhary.com>
