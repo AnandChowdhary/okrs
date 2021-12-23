@@ -72,13 +72,13 @@ I use **Objectives and Key Results** both for my personal and professional life.
       </tr>
       <tr>
         <td>↳ Register Dutch subsidiary</td>
-        <td>109.00000000000001%</td>
+        <td>109%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
     <tr>
         <td>↳ Apply for residence permit</td>
-        <td>109.00000000000001%</td>
+        <td>109%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
