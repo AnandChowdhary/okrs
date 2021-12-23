@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/schema.json",
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
   "year": 2021,
   "quarter": 4,
   "objectives": [
