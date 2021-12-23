@@ -1,8 +1,5 @@
 /** JSON API type */
 export interface OkrApi {
-  /** Last updated ISO date */
-  updatedAt: string;
-
   /** OKR key-value pair with year and data */
   years: {
     name: number;
