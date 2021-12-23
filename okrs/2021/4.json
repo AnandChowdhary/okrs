@@ -1,0 +1,67 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/schema.json",
+  "year": 2021,
+  "quarter": 4,
+  "objectives": [
+    {
+      "name": "Start getting healthy",
+      "key_results": [
+        {
+          "name": "Work out twice a week",
+          "target_result": 24,
+          "current_result": 12
+        },
+        {
+          "name": "Stay under 1,700 kcal/day",
+          "target_result": 91,
+          "current_result": 78
+        },
+        {
+          "name": "Lose 10 kg by birthday",
+          "target_result": 10,
+          "current_result": 9
+        }
+      ]
+    },
+    {
+      "name": "Get back to work",
+      "key_results": [
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0.4485
+        },
+        {
+          "name": "Do proper 1:1s with reports",
+          "target_result": 12,
+          "current_result": 10
+        },
+        {
+          "name": "Read 1 book per month",
+          "target_result": 3,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Get ready for 2022",
+      "key_results": [
+        {
+          "name": "Register Dutch subsidiary",
+          "target_result": 1,
+          "current_result": 1
+        },
+        {
+          "name": "Apply for residence permit",
+          "target_result": 1,
+          "current_result": 1
+        },
+        {
+          "name": "Have [redacted] in savings",
+          "target_result": 1000,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
