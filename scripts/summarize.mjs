@@ -172,6 +172,7 @@ export async function summarize() {
     <thead>
       <tr>
         <th>OKR</th>
+        <th>Success</th>
         <th colspan="2">Progress</th>
       </tr>
     </thead>
@@ -180,6 +181,7 @@ export async function summarize() {
     .map(
       (objective) => `    <tr>
         <td><strong>${objective.name}</strong></td>
+        <td>${objective.success * 100}%</td>
         <td>${"🟩".repeat(Math.round(objective.progress * 10))}${"⬜".repeat(
         10 - Math.round(objective.progress * 10)
       )}</td>
@@ -189,6 +191,7 @@ export async function summarize() {
     .map(
       (keyResult) => `    <tr>
         <td>↳ ${keyResult.name}</td>
+        <td>${keyResult.success * 100}%</td>
         <td>${"🟨".repeat(Math.round(keyResult.progress * 10))}${"⬜".repeat(
         10 - Math.round(keyResult.progress * 10)
       )}</td>
