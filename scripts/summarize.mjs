@@ -181,7 +181,7 @@ export async function summarize() {
     .map(
       (objective) => `    <tr>
         <td><strong>${objective.name}</strong></td>
-        <td>${roundTwoDecimals(objective.success * 100)}%</td>
+        <td><strong>${roundTwoDecimals(objective.success * 100)}%</strong></td>
         <td>${"🟩".repeat(Math.round(objective.progress * 10))}${"⬜".repeat(
         10 - Math.round(objective.progress * 10)
       )}</td>
