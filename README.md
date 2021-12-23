@@ -20,7 +20,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Start getting healthy</strong></td>
-        <td>82%</td>
+        <td><strong>82%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
         <td><strong>75%</strong></td>
       </tr>
@@ -44,7 +44,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Get back to work</strong></td>
-        <td>47%</td>
+        <td><strong>47%</strong></td>
         <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
         <td><strong>43%</strong></td>
       </tr>
@@ -68,7 +68,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Get ready for 2022</strong></td>
-        <td>73%</td>
+        <td><strong>73%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
         <td><strong>67%</strong></td>
       </tr>
