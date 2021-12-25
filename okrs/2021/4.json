@@ -14,12 +14,12 @@
         {
           "name": "Stay under 1,700 kcal/day",
           "target_result": 91,
-          "current_result": 78
+          "current_result": 84
         },
         {
           "name": "Lose 10 kg by birthday",
           "target_result": 10,
-          "current_result": 9
+          "current_result": 10
         }
       ]
     },
