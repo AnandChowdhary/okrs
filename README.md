@@ -20,43 +20,43 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Start getting healthy</strong></td>
-        <td><strong>82%</strong></td>
+        <td><strong>86%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
-        <td><strong>75%</strong></td>
+        <td><strong>81%</strong></td>
       </tr>
       <tr>
         <td>↳ Work out twice a week</td>
-        <td>54%</td>
+        <td>53%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>50%</td>
       </tr>
     <tr>
         <td>↳ Stay under 1,700 kcal/day</td>
-        <td>93%</td>
+        <td>98%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
-        <td>86%</td>
+        <td>92%</td>
       </tr>
     <tr>
         <td>↳ Lose 10 kg by birthday</td>
-        <td>98%</td>
-        <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
-        <td>90%</td>
+        <td>106%</td>
+        <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
+        <td>100%</td>
       </tr>
     <tr>
         <td><strong>Get back to work</strong></td>
-        <td><strong>47%</strong></td>
+        <td><strong>46%</strong></td>
         <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
         <td><strong>43%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
-        <td>49%</td>
+        <td>48%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>45%</td>
       </tr>
     <tr>
         <td>↳ Do proper 1:1s with reports</td>
-        <td>91%</td>
+        <td>89%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
         <td>83%</td>
       </tr>
@@ -68,19 +68,19 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Get ready for 2022</strong></td>
-        <td><strong>73%</strong></td>
+        <td><strong>71%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
         <td><strong>67%</strong></td>
       </tr>
       <tr>
         <td>↳ Register Dutch subsidiary</td>
-        <td>109%</td>
+        <td>106%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
     <tr>
         <td>↳ Apply for residence permit</td>
-        <td>109%</td>
+        <td>106%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
