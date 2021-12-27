@@ -19,7 +19,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
     </thead>
     <tbody>
       <tr>
-        <td><strong>Keep body and mind on tracky</strong></td>
+        <td><strong>Keep body and mind on track</strong></td>
         <td><strong>0%</strong></td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td><strong>0%</strong></td>
