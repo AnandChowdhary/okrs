@@ -1,6 +1,104 @@
 {
   "years": [
     {
+      "name": 2022,
+      "progress": 0,
+      "success": 0,
+      "quarters": [
+        {
+          "name": 1,
+          "progress": 0,
+          "success": 0,
+          "objectives": [
+            {
+              "name": "Keep body and mind on tracky",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Maintain weight of less than 75 kg",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Work out twice every week",
+                  "current_result": 0,
+                  "target_result": 26,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Read one book every month",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Set up for a great 2022",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "[redacted]",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Buy a ring and plan proposal",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Convert engineering to autopilot",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Manage money better",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Breakeven every month",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Set up 2021 personal and corporate taxes",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Renew residence permit until Q2 2023",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": 2021,
       "progress": 0.64,
       "success": 0.65,
@@ -8,54 +106,54 @@
         {
           "name": 4,
           "progress": 0.64,
-          "success": 0.68,
+          "success": 0.66,
           "objectives": [
             {
               "name": "Start getting healthy",
               "progress": 0.81,
-              "success": 0.86,
+              "success": 0.84,
               "key_results": [
                 {
                   "name": "Work out twice a week",
                   "current_result": 12,
                   "target_result": 24,
                   "progress": 0.5,
-                  "success": 0.53
+                  "success": 0.52
                 },
                 {
                   "name": "Stay under 1,700 kcal/day",
                   "current_result": 84,
                   "target_result": 91,
                   "progress": 0.92,
-                  "success": 0.98
+                  "success": 0.96
                 },
                 {
                   "name": "Lose 10 kg by birthday",
                   "current_result": 10,
                   "target_result": 10,
                   "progress": 1,
-                  "success": 1.06
+                  "success": 1.04
                 }
               ]
             },
             {
               "name": "Get back to work",
               "progress": 0.43,
-              "success": 0.46,
+              "success": 0.45,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.4485,
                   "target_result": 1,
                   "progress": 0.45,
-                  "success": 0.48
+                  "success": 0.47
                 },
                 {
                   "name": "Do proper 1:1s with reports",
                   "current_result": 10,
                   "target_result": 12,
                   "progress": 0.83,
-                  "success": 0.89
+                  "success": 0.87
                 },
                 {
                   "name": "Read 1 book per month",
@@ -69,21 +167,21 @@
             {
               "name": "Get ready for 2022",
               "progress": 0.67,
-              "success": 0.71,
+              "success": 0.69,
               "key_results": [
                 {
                   "name": "Register Dutch subsidiary",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 1.06
+                  "success": 1.04
                 },
                 {
                   "name": "Apply for residence permit",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 1.06
+                  "success": 1.04
                 },
                 {
                   "name": "Have [redacted] in savings",
