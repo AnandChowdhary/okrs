@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2022,
+  "quarter": 1,
+  "objectives": [
+    {
+      "name": "Keep body and mind on tracky",
+      "key_results": [
+        {
+          "name": "Maintain weight of less than 75 kg",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Work out twice every week",
+          "target_result": 26,
+          "current_result": 0
+        },
+        {
+          "name": "Read one book every month",
+          "target_result": 3,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Set up for a great 2022",
+      "key_results": [
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Buy a ring and plan proposal",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Convert engineering to autopilot",
+          "target_result": 3,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Manage money better",
+      "key_results": [
+        {
+          "name": "Breakeven every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+        {
+          "name": "Set up 2021 personal and corporate taxes",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Renew residence permit until Q2 2023",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
