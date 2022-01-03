@@ -109,43 +109,43 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Start getting healthy</strong></td>
-        <td><strong>84%</strong></td>
+        <td><strong>83%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜</td>
-        <td><strong>81%</strong></td>
+        <td><strong>83%</strong></td>
       </tr>
       <tr>
         <td>↳ Work out twice a week</td>
-        <td>52%</td>
+        <td>50%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>50%</td>
       </tr>
     <tr>
         <td>↳ Stay under 1,700 kcal/day</td>
-        <td>96%</td>
-        <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
-        <td>92%</td>
+        <td>99%</td>
+        <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
+        <td>99%</td>
       </tr>
     <tr>
         <td>↳ Lose 10 kg by birthday</td>
-        <td>104%</td>
+        <td>100%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
     <tr>
         <td><strong>Get back to work</strong></td>
-        <td><strong>45%</strong></td>
+        <td><strong>43%</strong></td>
         <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
         <td><strong>43%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
-        <td>47%</td>
+        <td>45%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>45%</td>
       </tr>
     <tr>
         <td>↳ Do proper 1:1s with reports</td>
-        <td>87%</td>
+        <td>83%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜</td>
         <td>83%</td>
       </tr>
@@ -157,19 +157,19 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Get ready for 2022</strong></td>
-        <td><strong>69%</strong></td>
+        <td><strong>67%</strong></td>
         <td>🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜</td>
         <td><strong>67%</strong></td>
       </tr>
       <tr>
         <td>↳ Register Dutch subsidiary</td>
-        <td>104%</td>
+        <td>100%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
     <tr>
         <td>↳ Apply for residence permit</td>
-        <td>104%</td>
+        <td>100%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>

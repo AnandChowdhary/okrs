@@ -101,59 +101,59 @@
     {
       "name": 2021,
       "progress": 0.64,
-      "success": 0.65,
+      "success": 0.64,
       "quarters": [
         {
           "name": 4,
           "progress": 0.64,
-          "success": 0.66,
+          "success": 0.64,
           "objectives": [
             {
               "name": "Start getting healthy",
-              "progress": 0.81,
-              "success": 0.84,
+              "progress": 0.83,
+              "success": 0.83,
               "key_results": [
                 {
                   "name": "Work out twice a week",
                   "current_result": 12,
                   "target_result": 24,
                   "progress": 0.5,
-                  "success": 0.52
+                  "success": 0.5
                 },
                 {
                   "name": "Stay under 1,700 kcal/day",
-                  "current_result": 84,
+                  "current_result": 90,
                   "target_result": 91,
-                  "progress": 0.92,
-                  "success": 0.96
+                  "progress": 0.99,
+                  "success": 0.99
                 },
                 {
                   "name": "Lose 10 kg by birthday",
                   "current_result": 10,
                   "target_result": 10,
                   "progress": 1,
-                  "success": 1.04
+                  "success": 1
                 }
               ]
             },
             {
               "name": "Get back to work",
               "progress": 0.43,
-              "success": 0.45,
+              "success": 0.43,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.4485,
                   "target_result": 1,
                   "progress": 0.45,
-                  "success": 0.47
+                  "success": 0.45
                 },
                 {
                   "name": "Do proper 1:1s with reports",
                   "current_result": 10,
                   "target_result": 12,
                   "progress": 0.83,
-                  "success": 0.87
+                  "success": 0.83
                 },
                 {
                   "name": "Read 1 book per month",
@@ -167,21 +167,21 @@
             {
               "name": "Get ready for 2022",
               "progress": 0.67,
-              "success": 0.69,
+              "success": 0.67,
               "key_results": [
                 {
                   "name": "Register Dutch subsidiary",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 1.04
+                  "success": 1
                 },
                 {
                   "name": "Apply for residence permit",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 1.04
+                  "success": 1
                 },
                 {
                   "name": "Have [redacted] in savings",
