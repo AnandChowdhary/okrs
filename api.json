@@ -2,25 +2,25 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0,
-      "success": 0,
+      "progress": 0.08,
+      "success": 4,
       "quarters": [
         {
           "name": 1,
-          "progress": 0,
-          "success": 0,
+          "progress": 0.08,
+          "success": 1.08,
           "objectives": [
             {
               "name": "Keep body and mind on track",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.03,
+              "success": 0.37,
               "key_results": [
                 {
                   "name": "Maintain weight of less than 75 kg",
-                  "current_result": 0,
-                  "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "current_result": 1,
+                  "target_result": 13,
+                  "progress": 0.08,
+                  "success": 1.1
                 },
                 {
                   "name": "Work out twice every week",
@@ -40,8 +40,8 @@
             },
             {
               "name": "Set up for a great 2022",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.03,
+              "success": 0.48,
               "key_results": [
                 {
                   "name": "[redacted]",
@@ -52,10 +52,10 @@
                 },
                 {
                   "name": "Buy a ring and plan proposal",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 1.43
                 },
                 {
                   "name": "Convert engineering to autopilot",
@@ -68,8 +68,8 @@
             },
             {
               "name": "Manage money better",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.17,
+              "success": 2.38,
               "key_results": [
                 {
                   "name": "Breakeven every month",
@@ -87,10 +87,10 @@
                 },
                 {
                   "name": "Renew residence permit until Q2 2023",
-                  "current_result": 0,
+                  "current_result": 0.5,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.5,
+                  "success": 7.14
                 }
               ]
             }

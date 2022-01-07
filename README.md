@@ -20,15 +20,15 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Keep body and mind on track</strong></td>
-        <td><strong>0%</strong></td>
+        <td><strong>37%</strong></td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>0%</strong></td>
+        <td><strong>3%</strong></td>
       </tr>
       <tr>
         <td>↳ Maintain weight of less than 75 kg</td>
-        <td>0%</td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>0%</td>
+        <td>110%</td>
+        <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>8%</td>
       </tr>
     <tr>
         <td>↳ Work out twice every week</td>
@@ -44,9 +44,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Set up for a great 2022</strong></td>
-        <td><strong>0%</strong></td>
+        <td><strong>48%</strong></td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>0%</strong></td>
+        <td><strong>3%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
@@ -56,9 +56,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Buy a ring and plan proposal</td>
-        <td>0%</td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>0%</td>
+        <td>143%</td>
+        <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>10%</td>
       </tr>
     <tr>
         <td>↳ Convert engineering to autopilot</td>
@@ -68,9 +68,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Manage money better</strong></td>
-        <td><strong>0%</strong></td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>0%</strong></td>
+        <td><strong>238%</strong></td>
+        <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>17%</strong></td>
       </tr>
       <tr>
         <td>↳ Breakeven every month</td>
@@ -86,9 +86,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Renew residence permit until Q2 2023</td>
-        <td>0%</td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>0%</td>
+        <td>714%</td>
+        <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
+        <td>50%</td>
       </tr>
     </tbody>
   </table>
