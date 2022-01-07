@@ -8,8 +8,8 @@
       "key_results": [
         {
           "name": "Maintain weight of less than 75 kg",
-          "target_result": 1,
-          "current_result": 0
+          "target_result": 13,
+          "current_result": 1
         },
         {
           "name": "Work out twice every week",
@@ -34,7 +34,7 @@
         {
           "name": "Buy a ring and plan proposal",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.1
         },
         {
           "name": "Convert engineering to autopilot",
@@ -59,7 +59,7 @@
         {
           "name": "Renew residence permit until Q2 2023",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.5
         }
       ]
     }
