@@ -35,24 +35,19 @@
                 "target_result": { "type": "number" },
                 "current_result": { "type": "number" }
               },
-
               "additionalProperties": false,
               "required": ["name", "target_result", "current_result"]
             },
-            "minItems": 3,
-            "maxItems": 3,
+            "minItems": 2,
+            "maxItems": 5,
             "uniqueItems": true
           }
         },
-
         "additionalProperties": false,
-        "required": ["name", "key_results"],
-        "minItems": 3,
-        "maxItems": 3,
-        "uniqueItems": true
+        "required": ["name", "key_results"]
       },
-      "minItems": 3,
-      "maxItems": 3,
+      "minItems": 1,
+      "maxItems": 5,
       "uniqueItems": true
     }
   },
