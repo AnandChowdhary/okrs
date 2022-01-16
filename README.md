@@ -20,13 +20,13 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Keep body and mind on track</strong></td>
-        <td><strong>26%</strong></td>
+        <td><strong>14%</strong></td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td><strong>3%</strong></td>
       </tr>
       <tr>
         <td>↳ Maintain weight of less than 75 kg</td>
-        <td>77%</td>
+        <td>43%</td>
         <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>8%</td>
       </tr>
@@ -44,9 +44,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Set up for a great 2022</strong></td>
-        <td><strong>33%</strong></td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>3%</strong></td>
+        <td><strong>37%</strong></td>
+        <td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>7%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
@@ -56,9 +56,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Buy a ring and plan proposal</td>
-        <td>100%</td>
-        <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>10%</td>
+        <td>111%</td>
+        <td>🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>20%</td>
       </tr>
     <tr>
         <td>↳ Convert engineering to autopilot</td>
@@ -68,7 +68,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Manage money better</strong></td>
-        <td><strong>167%</strong></td>
+        <td><strong>93%</strong></td>
         <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td><strong>17%</strong></td>
       </tr>
@@ -86,7 +86,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Renew residence permit until Q2 2023</td>
-        <td>500%</td>
+        <td>278%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>50%</td>
       </tr>
