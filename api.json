@@ -2,25 +2,25 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.09,
-      "success": 2.25,
+      "progress": 0.15,
+      "success": 2.5,
       "quarters": [
         {
           "name": 1,
-          "progress": 0.09,
-          "success": 0.48,
+          "progress": 0.15,
+          "success": 0.64,
           "objectives": [
             {
               "name": "Keep body and mind on track",
-              "progress": 0.03,
-              "success": 0.14,
+              "progress": 0.13,
+              "success": 0.57,
               "key_results": [
                 {
                   "name": "Maintain weight of less than 75 kg",
-                  "current_result": 1,
+                  "current_result": 3,
                   "target_result": 13,
-                  "progress": 0.08,
-                  "success": 0.43
+                  "progress": 0.23,
+                  "success": 1
                 },
                 {
                   "name": "Work out twice every week",
@@ -31,45 +31,45 @@
                 },
                 {
                   "name": "Read one book every month",
-                  "current_result": 0,
+                  "current_result": 0.5,
                   "target_result": 3,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.17,
+                  "success": 0.72
                 }
               ]
             },
             {
               "name": "Set up for a great 2022",
-              "progress": 0.07,
-              "success": 0.37,
+              "progress": 0.14,
+              "success": 0.62,
               "key_results": [
                 {
                   "name": "[redacted]",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 0.43
                 },
                 {
                   "name": "Buy a ring and plan proposal",
-                  "current_result": 0.2,
+                  "current_result": 0.3,
                   "target_result": 1,
-                  "progress": 0.2,
-                  "success": 1.11
+                  "progress": 0.3,
+                  "success": 1.3
                 },
                 {
                   "name": "Convert engineering to autopilot",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 3,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.03,
+                  "success": 0.14
                 }
               ]
             },
             {
               "name": "Manage money better",
               "progress": 0.17,
-              "success": 0.93,
+              "success": 0.72,
               "key_results": [
                 {
                   "name": "Breakeven every month",
@@ -90,7 +90,7 @@
                   "current_result": 0.5,
                   "target_result": 1,
                   "progress": 0.5,
-                  "success": 2.78
+                  "success": 2.17
                 }
               ]
             }
