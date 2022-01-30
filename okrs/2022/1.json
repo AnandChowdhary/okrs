@@ -19,7 +19,7 @@
         {
           "name": "Read one book every month",
           "target_result": 3,
-          "current_result": 0.5
+          "current_result": 1
         }
       ]
     },
@@ -34,12 +34,12 @@
         {
           "name": "Buy a ring and plan proposal",
           "target_result": 1,
-          "current_result": 0.3
+          "current_result": 0.35
         },
         {
           "name": "Convert engineering to autopilot",
           "target_result": 3,
-          "current_result": 0.1
+          "current_result": 0.2
         }
       ]
     },
@@ -49,7 +49,7 @@
         {
           "name": "Breakeven every month",
           "target_result": 3,
-          "current_result": 0
+          "current_result": 1
         },
         {
           "name": "Set up 2021 personal and corporate taxes",
@@ -59,7 +59,7 @@
         {
           "name": "Renew residence permit until Q2 2023",
           "target_result": 1,
-          "current_result": 0.5
+          "current_result": 0.6
         }
       ]
     }
