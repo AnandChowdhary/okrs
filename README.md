@@ -21,12 +21,12 @@ I use **Objectives and Key Results** both for my personal and professional life 
       <tr>
         <td><strong>Keep body and mind on track</strong></td>
         <td><strong>57%</strong></td>
-        <td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>13%</strong></td>
+        <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>19%</strong></td>
       </tr>
       <tr>
         <td>↳ Maintain weight of less than 75 kg</td>
-        <td>100%</td>
+        <td>70%</td>
         <td>🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>23%</td>
       </tr>
@@ -38,45 +38,45 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Read one book every month</td>
-        <td>72%</td>
-        <td>🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>17%</td>
+        <td>101%</td>
+        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>33%</td>
       </tr>
     <tr>
         <td><strong>Set up for a great 2022</strong></td>
-        <td><strong>62%</strong></td>
-        <td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>14%</strong></td>
+        <td><strong>52%</strong></td>
+        <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>17%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
-        <td>43%</td>
+        <td>30%</td>
         <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>10%</td>
       </tr>
     <tr>
         <td>↳ Buy a ring and plan proposal</td>
-        <td>130%</td>
-        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>30%</td>
+        <td>106%</td>
+        <td>🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
+        <td>35%</td>
       </tr>
     <tr>
         <td>↳ Convert engineering to autopilot</td>
-        <td>14%</td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>3%</td>
+        <td>20%</td>
+        <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>7%</td>
       </tr>
     <tr>
         <td><strong>Manage money better</strong></td>
-        <td><strong>72%</strong></td>
-        <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>17%</strong></td>
+        <td><strong>94%</strong></td>
+        <td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>31%</strong></td>
       </tr>
       <tr>
         <td>↳ Breakeven every month</td>
-        <td>0%</td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>0%</td>
+        <td>101%</td>
+        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>33%</td>
       </tr>
     <tr>
         <td>↳ Set up 2021 personal and corporate taxes</td>
@@ -86,9 +86,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Renew residence permit until Q2 2023</td>
-        <td>217%</td>
-        <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
-        <td>50%</td>
+        <td>182%</td>
+        <td>🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜</td>
+        <td>60%</td>
       </tr>
     </tbody>
   </table>
