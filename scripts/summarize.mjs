@@ -159,14 +159,14 @@ export async function summarize() {
     .map(
       (quarter, index) => `${
         index === 0
-          ? `## 📈 Current OKRs – Q${quarter.name} ${quarter.year}\n\n`
+          ? `## 📈 Current OKRs – Q${quarter.name} ${quarter.year} (${quarter.success})\n\n`
           : index === 1
           ? "## ✅ Past OKRs\n\n"
           : ""
       }${
         index === 0
           ? "<div>"
-          : `<details>\n  <summary>Q${quarter.name} ${quarter.year}</summary>`
+          : `<details>\n  <summary>Q${quarter.name} ${quarter.year} (${quarter.success}%)</summary>`
       }
   <table>
     <thead>
