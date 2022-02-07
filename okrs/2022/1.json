@@ -9,7 +9,7 @@
         {
           "name": "Maintain weight of less than 75 kg",
           "target_result": 13,
-          "current_result": 3
+          "current_result": 5
         },
         {
           "name": "Work out twice every week",
@@ -39,7 +39,7 @@
         {
           "name": "Convert engineering to autopilot",
           "target_result": 3,
-          "current_result": 0.2
+          "current_result": 0.33
         }
       ]
     },
@@ -59,7 +59,7 @@
         {
           "name": "Renew residence permit until Q2 2023",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 0.75
         }
       ]
     }
