@@ -9,7 +9,7 @@
         {
           "name": "Maintain weight of less than 75 kg",
           "target_result": 13,
-          "current_result": 4
+          "current_result": 7
         },
         {
           "name": "Work out twice every week",
@@ -29,7 +29,7 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 0.4
         },
         {
           "name": "Buy a ring and plan proposal",
@@ -39,7 +39,7 @@
         {
           "name": "Convert engineering to autopilot",
           "target_result": 3,
-          "current_result": 0.4
+          "current_result": 0.5
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "name": "Set up 2021 personal and corporate taxes",
           "target_result": 1,
-          "current_result": 0.1
+          "current_result": 0.25
         },
         {
           "name": "Renew residence permit until Q2 2023",
