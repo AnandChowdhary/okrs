@@ -2,25 +2,25 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.36,
-      "success": 2.57,
+      "progress": 0.37,
+      "success": 2.31,
       "quarters": [
         {
           "name": 1,
-          "progress": 0.36,
-          "success": 0.64,
+          "progress": 0.37,
+          "success": 0.56,
           "objectives": [
             {
               "name": "Keep body and mind on track",
-              "progress": 0.3,
-              "success": 0.54,
+              "progress": 0.33,
+              "success": 0.5,
               "key_results": [
                 {
                   "name": "Maintain weight of less than 75 kg",
-                  "current_result": 7,
+                  "current_result": 8,
                   "target_result": 13,
-                  "progress": 0.54,
-                  "success": 0.96
+                  "progress": 0.62,
+                  "success": 0.93
                 },
                 {
                   "name": "Work out twice every week",
@@ -34,34 +34,34 @@
                   "current_result": 1.1,
                   "target_result": 3,
                   "progress": 0.37,
-                  "success": 0.65
+                  "success": 0.56
                 }
               ]
             },
             {
               "name": "Set up for a great 2022",
-              "progress": 0.31,
-              "success": 0.54,
+              "progress": 0.32,
+              "success": 0.48,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.4,
                   "target_result": 1,
                   "progress": 0.4,
-                  "success": 0.71
+                  "success": 0.61
                 },
                 {
                   "name": "Buy a ring and plan proposal",
                   "current_result": 0.35,
                   "target_result": 1,
                   "progress": 0.35,
-                  "success": 0.62
+                  "success": 0.53
                 },
                 {
                   "name": "Convert engineering to autopilot",
-                  "current_result": 0.5,
+                  "current_result": 0.6,
                   "target_result": 3,
-                  "progress": 0.17,
+                  "progress": 0.2,
                   "success": 0.3
                 }
               ]
@@ -69,28 +69,28 @@
             {
               "name": "Manage money better",
               "progress": 0.46,
-              "success": 0.83,
+              "success": 0.7,
               "key_results": [
                 {
                   "name": "Breakeven every month",
                   "current_result": 1,
                   "target_result": 3,
                   "progress": 0.33,
-                  "success": 0.6
+                  "success": 0.51
                 },
                 {
                   "name": "Set up 2021 personal and corporate taxes",
                   "current_result": 0.25,
                   "target_result": 1,
                   "progress": 0.25,
-                  "success": 0.45
+                  "success": 0.38
                 },
                 {
                   "name": "Renew residence permit until Q2 2023",
                   "current_result": 0.8,
                   "target_result": 1,
                   "progress": 0.8,
-                  "success": 1.43
+                  "success": 1.21
                 }
               ]
             }
