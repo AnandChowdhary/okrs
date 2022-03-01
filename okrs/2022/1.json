@@ -9,7 +9,7 @@
         {
           "name": "Maintain weight of less than 75 kg",
           "target_result": 13,
-          "current_result": 7
+          "current_result": 8
         },
         {
           "name": "Work out twice every week",
@@ -39,7 +39,7 @@
         {
           "name": "Convert engineering to autopilot",
           "target_result": 3,
-          "current_result": 0.5
+          "current_result": 0.6
         }
       ]
     },
