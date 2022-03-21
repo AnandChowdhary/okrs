@@ -9,12 +9,12 @@
         {
           "name": "Maintain weight of less than 75 kg",
           "target_result": 13,
-          "current_result": 10
+          "current_result": 11
         },
         {
           "name": "Work out twice every week",
           "target_result": 26,
-          "current_result": 0.5
+          "current_result": 1
         },
         {
           "name": "Read one book every month",
