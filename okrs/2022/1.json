@@ -9,12 +9,12 @@
         {
           "name": "Maintain weight of less than 75 kg",
           "target_result": 13,
-          "current_result": 11
+          "current_result": 12
         },
         {
           "name": "Work out twice every week",
           "target_result": 26,
-          "current_result": 1
+          "current_result": 2
         },
         {
           "name": "Read one book every month",
@@ -49,12 +49,12 @@
         {
           "name": "Breakeven every month",
           "target_result": 3,
-          "current_result": 1
+          "current_result": 2
         },
         {
           "name": "Set up 2021 personal and corporate taxes",
           "target_result": 1,
-          "current_result": 0.33
+          "current_result": 0.9
         },
         {
           "name": "Renew residence permit until Q2 2023",
