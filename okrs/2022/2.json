@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2022,
+  "quarter": 2,
+  "objectives": [
+    {
+      "name": "Accelerate body and mind progress",
+      "key_results": [
+        {
+          "name": "Work out twice every week",
+          "target_result": 26,
+          "current_result": 0
+        },
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+        {
+          "name": "Take structured days off",
+          "target_result": 20,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Invest in support system",
+      "key_results": [
+        {
+          "name": "Weekly date nights",
+          "target_result": 13,
+          "current_result": 0
+        },
+        {
+          "name": "Biweekly round-robin calls home",
+          "target_result": 26,
+          "current_result": 0
+        },
+        {
+          "name": "Set up and use personal CRM",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Work harder and smarter",
+      "key_results": [
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Well-prepared 1:1s with direct reports",
+          "target_result": 13,
+          "current_result": 0
+        },
+        {
+          "name": "Invest €1000 × [redacted]",
+          "target_result": 1000,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
