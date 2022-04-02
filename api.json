@@ -2,9 +2,100 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.62,
-      "success": 2.48,
+      "progress": 0.31,
+      "success": 1.24,
       "quarters": [
+        {
+          "name": 2,
+          "progress": 0,
+          "success": 0,
+          "objectives": [
+            {
+              "name": "Accelerate body and mind progress",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Work out twice every week",
+                  "current_result": 0,
+                  "target_result": 26,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Complete one book every month",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Take structured days off",
+                  "current_result": 0,
+                  "target_result": 20,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Invest in support system",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Weekly date nights",
+                  "current_result": 0,
+                  "target_result": 13,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Biweekly round-robin calls home",
+                  "current_result": 0,
+                  "target_result": 26,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Set up and use personal CRM",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Work harder and smarter",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "[redacted]",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Well-prepared 1:1s with direct reports",
+                  "current_result": 0,
+                  "target_result": 13,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Invest €1000 × [redacted]",
+                  "current_result": 0,
+                  "target_result": 1000,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": 1,
           "progress": 0.62,
