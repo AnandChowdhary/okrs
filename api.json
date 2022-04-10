@@ -2,18 +2,18 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.31,
-      "success": 1.24,
+      "progress": 0.32,
+      "success": 1.17,
       "quarters": [
         {
           "name": 2,
-          "progress": 0,
-          "success": 0,
+          "progress": 0.01,
+          "success": 0.1,
           "objectives": [
             {
               "name": "Accelerate body and mind progress",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.03,
+              "success": 0.3,
               "key_results": [
                 {
                   "name": "Work out twice every week",
@@ -31,10 +31,10 @@
                 },
                 {
                   "name": "Take structured days off",
-                  "current_result": 0,
+                  "current_result": 2,
                   "target_result": 20,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 0.91
                 }
               ]
             },
