@@ -9,7 +9,7 @@
         {
           "name": "Work out twice every week",
           "target_result": 26,
-          "current_result": 0
+          "current_result": 2
         },
         {
           "name": "Complete one book every month",
@@ -34,7 +34,7 @@
         {
           "name": "Biweekly round-robin calls home",
           "target_result": 26,
-          "current_result": 0
+          "current_result": 1
         },
         {
           "name": "Set up and use personal CRM",
@@ -49,7 +49,7 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.1
         },
         {
           "name": "Well-prepared 1:1s with direct reports",
