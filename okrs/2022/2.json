@@ -14,12 +14,12 @@
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 0
+          "current_result": 0.4
         },
         {
           "name": "Take structured days off",
           "target_result": 20,
-          "current_result": 2
+          "current_result": 3
         }
       ]
     },
