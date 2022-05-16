@@ -2,88 +2,88 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.4,
+      "progress": 0.42,
       "success": 1.14,
       "quarters": [
         {
           "name": 2,
-          "progress": 0.18,
-          "success": 0.42,
+          "progress": 0.22,
+          "success": 0.44,
           "objectives": [
             {
               "name": "Accelerate body and mind progress",
-              "progress": 0.25,
-              "success": 0.59,
+              "progress": 0.32,
+              "success": 0.65,
               "key_results": [
                 {
                   "name": "Work out twice every week",
-                  "current_result": 8,
+                  "current_result": 11,
                   "target_result": 26,
-                  "progress": 0.31,
-                  "success": 0.73
+                  "progress": 0.42,
+                  "success": 0.86
                 },
                 {
                   "name": "Complete one book every month",
                   "current_result": 0.7,
                   "target_result": 3,
                   "progress": 0.23,
-                  "success": 0.56
+                  "success": 0.48
                 },
                 {
                   "name": "Take structured days off",
-                  "current_result": 4,
+                  "current_result": 6,
                   "target_result": 20,
-                  "progress": 0.2,
-                  "success": 0.48
+                  "progress": 0.3,
+                  "success": 0.61
                 }
               ]
             },
             {
               "name": "Invest in support system",
-              "progress": 0.22,
-              "success": 0.53,
+              "progress": 0.25,
+              "success": 0.5,
               "key_results": [
                 {
                   "name": "Weekly date nights",
-                  "current_result": 3,
+                  "current_result": 4,
                   "target_result": 13,
-                  "progress": 0.23,
-                  "success": 0.55
+                  "progress": 0.31,
+                  "success": 0.63
                 },
                 {
                   "name": "Biweekly round-robin calls home",
                   "current_result": 6,
                   "target_result": 26,
                   "progress": 0.23,
-                  "success": 0.55
+                  "success": 0.47
                 },
                 {
                   "name": "Set up and use personal CRM",
                   "current_result": 0.2,
                   "target_result": 1,
                   "progress": 0.2,
-                  "success": 0.48
+                  "success": 0.41
                 }
               ]
             },
             {
               "name": "Work harder and smarter",
-              "progress": 0.06,
-              "success": 0.14,
+              "progress": 0.08,
+              "success": 0.17,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.1,
                   "target_result": 1,
                   "progress": 0.1,
-                  "success": 0.24
+                  "success": 0.2
                 },
                 {
                   "name": "Well-prepared 1:1s with direct reports",
-                  "current_result": 1,
+                  "current_result": 2,
                   "target_result": 13,
-                  "progress": 0.08,
-                  "success": 0.18
+                  "progress": 0.15,
+                  "success": 0.31
                 },
                 {
                   "name": "Invest €1000 × [redacted]",
