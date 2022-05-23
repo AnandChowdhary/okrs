@@ -9,7 +9,7 @@
         {
           "name": "Work out twice every week",
           "target_result": 26,
-          "current_result": 11
+          "current_result": 13
         },
         {
           "name": "Complete one book every month",
@@ -19,7 +19,7 @@
         {
           "name": "Take structured days off",
           "target_result": 20,
-          "current_result": 6
+          "current_result": 7
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "name": "Biweekly round-robin calls home",
           "target_result": 26,
-          "current_result": 6
+          "current_result": 7
         },
         {
           "name": "Set up and use personal CRM",
