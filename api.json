@@ -2,88 +2,179 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.5,
-      "success": 1.06,
+      "progress": 0.35,
+      "success": 0.71,
       "quarters": [
         {
-          "name": 2,
-          "progress": 0.38,
-          "success": 0.43,
+          "name": 3,
+          "progress": 0.04,
+          "success": -1.23,
           "objectives": [
             {
-              "name": "Accelerate body and mind progress",
-              "progress": 0.47,
-              "success": 0.54,
+              "name": "Improve physical and mental health",
+              "progress": 0.11,
+              "success": -3.7,
               "key_results": [
                 {
-                  "name": "Work out twice every week",
-                  "current_result": 15,
-                  "target_result": 26,
-                  "progress": 0.58,
-                  "success": 0.66
+                  "name": "Work out 3 or more times weekly",
+                  "current_result": 0,
+                  "target_result": 39,
+                  "progress": 0,
+                  "success": 0
                 },
                 {
                   "name": "Complete one book every month",
                   "current_result": 1,
                   "target_result": 3,
                   "progress": 0.33,
-                  "success": 0.38
+                  "success": -11.11
+                },
+                {
+                  "name": "Meditate or breathwork once a week",
+                  "current_result": 0,
+                  "target_result": 13,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Get engaged to be married",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Hold engagement celebration in India",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Plan wedding (venue, date, guests)",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Set up and use personal CRM",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Start planning for the long term",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "[redacted]",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Get residence permit with HSM",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Finalize mortgage or rent for Q4",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": 2,
+          "progress": 0.38,
+          "success": 0.4,
+          "objectives": [
+            {
+              "name": "Accelerate body and mind progress",
+              "progress": 0.47,
+              "success": 0.49,
+              "key_results": [
+                {
+                  "name": "Work out twice every week",
+                  "current_result": 15,
+                  "target_result": 26,
+                  "progress": 0.58,
+                  "success": 0.6
+                },
+                {
+                  "name": "Complete one book every month",
+                  "current_result": 1,
+                  "target_result": 3,
+                  "progress": 0.33,
+                  "success": 0.35
                 },
                 {
                   "name": "Take structured days off",
                   "current_result": 10,
                   "target_result": 20,
                   "progress": 0.5,
-                  "success": 0.57
+                  "success": 0.52
                 }
               ]
             },
             {
               "name": "Invest in support system",
               "progress": 0.4,
-              "success": 0.45,
+              "success": 0.42,
               "key_results": [
                 {
                   "name": "Weekly date nights",
                   "current_result": 7,
                   "target_result": 13,
                   "progress": 0.54,
-                  "success": 0.61
+                  "success": 0.56
                 },
                 {
                   "name": "Biweekly round-robin calls home",
                   "current_result": 12,
                   "target_result": 26,
                   "progress": 0.46,
-                  "success": 0.52
+                  "success": 0.48
                 },
                 {
                   "name": "Set up and use personal CRM",
                   "current_result": 0.2,
                   "target_result": 1,
                   "progress": 0.2,
-                  "success": 0.23
+                  "success": 0.21
                 }
               ]
             },
             {
               "name": "Work harder and smarter",
               "progress": 0.27,
-              "success": 0.31,
+              "success": 0.28,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.5,
                   "target_result": 1,
                   "progress": 0.5,
-                  "success": 0.57
+                  "success": 0.52
                 },
                 {
                   "name": "Well-prepared 1:1s with direct reports",
                   "current_result": 4,
                   "target_result": 13,
                   "progress": 0.31,
-                  "success": 0.35
+                  "success": 0.32
                 },
                 {
                   "name": "Invest €1000 × [redacted]",
