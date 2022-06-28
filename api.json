@@ -2,18 +2,18 @@
   "years": [
     {
       "name": 2022,
-      "progress": 0.35,
-      "success": 0.71,
+      "progress": 0.33,
+      "success": 0.68,
       "quarters": [
         {
           "name": 3,
-          "progress": 0.04,
-          "success": -1.23,
+          "progress": 0,
+          "success": 0,
           "objectives": [
             {
               "name": "Improve physical and mental health",
-              "progress": 0.11,
-              "success": -3.7,
+              "progress": 0,
+              "success": 0,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
@@ -24,10 +24,10 @@
                 },
                 {
                   "name": "Complete one book every month",
-                  "current_result": 1,
+                  "current_result": 0,
                   "target_result": 3,
-                  "progress": 0.33,
-                  "success": -11.11
+                  "progress": 0,
+                  "success": 0
                 },
                 {
                   "name": "Meditate or breathwork once a week",
