@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2022,
+  "quarter": 3,
+  "objectives": [
+    {
+      "name": "Improve physical and mental health",
+      "key_results": [
+        {
+          "name": "Work out 3 or more times weekly",
+          "target_result": 39,
+          "current_result": 0
+        },
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 1
+        },
+        {
+          "name": "Meditate or breathwork once a week",
+          "target_result": 13,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Get engaged to be married",
+      "key_results": [
+        {
+          "name": "Hold engagement celebration in India",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Plan wedding (venue, date, guests)",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Set up and use personal CRM",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Start planning for the long term",
+      "key_results": [
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Get residence permit with HSM",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Finalize mortgage or rent for Q4",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
