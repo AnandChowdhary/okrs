@@ -97,7 +97,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
 ## ✅ Past OKRs
 
 <details>
-  <summary>Q2 2022 (40%)</summary>
+  <summary>Q2 2022 (38%)</summary>
   <table>
     <thead>
       <tr>
@@ -109,67 +109,67 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Accelerate body and mind progress</strong></td>
-        <td><strong>49%</strong></td>
+        <td><strong>47%</strong></td>
         <td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜</td>
         <td><strong>47%</strong></td>
       </tr>
       <tr>
         <td>↳ Work out twice every week</td>
-        <td>60%</td>
+        <td>58%</td>
         <td>🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜</td>
         <td>58%</td>
       </tr>
     <tr>
         <td>↳ Complete one book every month</td>
-        <td>35%</td>
+        <td>33%</td>
         <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
         <td>33%</td>
       </tr>
     <tr>
         <td>↳ Take structured days off</td>
-        <td>52%</td>
+        <td>50%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>50%</td>
       </tr>
     <tr>
         <td><strong>Invest in support system</strong></td>
-        <td><strong>42%</strong></td>
+        <td><strong>40%</strong></td>
         <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
         <td><strong>40%</strong></td>
       </tr>
       <tr>
         <td>↳ Weekly date nights</td>
-        <td>56%</td>
+        <td>54%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>54%</td>
       </tr>
     <tr>
         <td>↳ Biweekly round-robin calls home</td>
-        <td>48%</td>
+        <td>46%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>46%</td>
       </tr>
     <tr>
         <td>↳ Set up and use personal CRM</td>
-        <td>21%</td>
+        <td>20%</td>
         <td>🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>20%</td>
       </tr>
     <tr>
         <td><strong>Work harder and smarter</strong></td>
-        <td><strong>28%</strong></td>
+        <td><strong>27%</strong></td>
         <td>🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜</td>
         <td><strong>27%</strong></td>
       </tr>
       <tr>
         <td>↳ [redacted]</td>
-        <td>52%</td>
+        <td>50%</td>
         <td>🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜</td>
         <td>50%</td>
       </tr>
     <tr>
         <td>↳ Well-prepared 1:1s with direct reports</td>
-        <td>32%</td>
+        <td>31%</td>
         <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
         <td>31%</td>
       </tr>
