@@ -10,7 +10,7 @@ import { readdir, readFile, writeFile } from "fs/promises";
  */
 export async function summarize() {
   /** @type {OkrApi} */
-  const api = { years: [] };
+  const api = { updatedAt: new Date().toISOString(), years: [] };
 
   for await (const fileName of getFiles(join(".", "okrs"))) {
     if (extname(fileName) !== ".json") {
