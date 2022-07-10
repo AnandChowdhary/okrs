@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2022-07-02T13:14:06.364Z",
+  "updatedAt": "2022-07-10T08:53:31.298Z",
   "years": [
     {
       "name": 2022,
-      "progress": 0.33,
-      "success": 0.67,
+      "progress": 0.35,
+      "success": 0.68,
       "quarters": [
         {
           "name": 3,
-          "progress": 0,
-          "success": 0,
+          "progress": 0.06,
+          "success": 0.59,
           "objectives": [
             {
               "name": "Improve physical and mental health",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.01,
+              "success": 0.11,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
@@ -25,10 +25,10 @@
                 },
                 {
                   "name": "Complete one book every month",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 3,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.03,
+                  "success": 0.33
                 },
                 {
                   "name": "Meditate or breathwork once a week",
@@ -41,22 +41,22 @@
             },
             {
               "name": "Get engaged to be married",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.07,
+              "success": 0.67,
               "key_results": [
                 {
                   "name": "Hold engagement celebration in India",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 1
                 },
                 {
                   "name": "Plan wedding (venue, date, guests)",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 1
                 },
                 {
                   "name": "Set up and use personal CRM",
@@ -69,8 +69,8 @@
             },
             {
               "name": "Start planning for the long term",
-              "progress": 0,
-              "success": 0,
+              "progress": 0.1,
+              "success": 1,
               "key_results": [
                 {
                   "name": "[redacted]",
@@ -81,17 +81,17 @@
                 },
                 {
                   "name": "Get residence permit with HSM",
-                  "current_result": 0,
+                  "current_result": 0.2,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.2,
+                  "success": 2
                 },
                 {
                   "name": "Finalize mortgage or rent for Q4",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 1
                 }
               ]
             }
