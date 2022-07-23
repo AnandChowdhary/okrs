@@ -9,12 +9,12 @@
         {
           "name": "Work out 3 or more times weekly",
           "target_result": 39,
-          "current_result": 3
+          "current_result": 5
         },
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 0.2
+          "current_result": 0.8
         },
         {
           "name": "Meditate or breathwork once a week",
@@ -29,12 +29,12 @@
         {
           "name": "Hold engagement celebration in India",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 0.33
         },
         {
           "name": "Plan wedding (venue, date, guests)",
           "target_result": 1,
-          "current_result": 0.1
+          "current_result": 0.2
         },
         {
           "name": "Set up and use personal CRM",
@@ -54,7 +54,7 @@
         {
           "name": "Get residence permit with HSM",
           "target_result": 1,
-          "current_result": 0.3
+          "current_result": 0.4
         },
         {
           "name": "Finalize mortgage or rent for Q4",
