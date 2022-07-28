@@ -9,17 +9,17 @@
         {
           "name": "Work out 3 or more times weekly",
           "target_result": 39,
-          "current_result": 5
+          "current_result": 7
         },
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 0.8
+          "current_result": 2.1
         },
         {
           "name": "Meditate or breathwork once a week",
           "target_result": 13,
-          "current_result": 0
+          "current_result": 1
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "name": "Plan wedding (venue, date, guests)",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 0.4
         },
         {
           "name": "Set up and use personal CRM",
@@ -49,12 +49,12 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.05
+          "current_result": 0.1
         },
         {
           "name": "Get residence permit with HSM",
           "target_result": 1,
-          "current_result": 0.4
+          "current_result": 0.6
         },
         {
           "name": "Finalize mortgage or rent for Q4",
