@@ -29,12 +29,12 @@
         {
           "name": "Hold engagement celebration in India",
           "target_result": 1,
-          "current_result": 0.33
+          "current_result": 0.5
         },
         {
           "name": "Plan wedding (venue, date, guests)",
           "target_result": 1,
-          "current_result": 0.4
+          "current_result": 0.5
         },
         {
           "name": "Set up and use personal CRM",
@@ -49,12 +49,12 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.1
+          "current_result": 0.2
         },
         {
           "name": "Get residence permit with HSM",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 0.8
         },
         {
           "name": "Finalize mortgage or rent for Q4",
