@@ -9,12 +9,12 @@
         {
           "name": "Work out 3 or more times weekly",
           "target_result": 39,
-          "current_result": 11
+          "current_result": 12
         },
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 2.5
+          "current_result": 3.15
         },
         {
           "name": "Meditate or breathwork once a week",
@@ -29,7 +29,7 @@
         {
           "name": "Hold engagement celebration in India",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 0.8
         },
         {
           "name": "Plan wedding (venue, date, guests)",
