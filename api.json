@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2022-08-15T06:09:03.649Z",
+  "updatedAt": "2022-08-29T06:21:13.845Z",
   "years": [
     {
       "name": 2022,
-      "progress": 0.47,
-      "success": 0.75,
+      "progress": 0.49,
+      "success": 0.74,
       "quarters": [
         {
           "name": 3,
-          "progress": 0.4,
-          "success": 0.81,
+          "progress": 0.47,
+          "success": 0.72,
           "objectives": [
             {
               "name": "Improve physical and mental health",
-              "progress": 0.42,
-              "success": 0.86,
+              "progress": 0.5,
+              "success": 0.78,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
-                  "current_result": 11,
+                  "current_result": 12,
                   "target_result": 39,
-                  "progress": 0.28,
-                  "success": 0.58
+                  "progress": 0.31,
+                  "success": 0.47
                 },
                 {
                   "name": "Complete one book every month",
-                  "current_result": 2.5,
+                  "current_result": 3.15,
                   "target_result": 3,
-                  "progress": 0.83,
-                  "success": 1.7
+                  "progress": 1.05,
+                  "success": 1.62
                 },
                 {
                   "name": "Meditate or breathwork once a week",
                   "current_result": 2,
                   "target_result": 13,
                   "progress": 0.15,
-                  "success": 0.31
+                  "success": 0.24
                 }
               ]
             },
             {
               "name": "Get engaged to be married",
-              "progress": 0.4,
-              "success": 0.81,
+              "progress": 0.53,
+              "success": 0.82,
               "key_results": [
                 {
                   "name": "Hold engagement celebration in India",
-                  "current_result": 0.6,
+                  "current_result": 1,
                   "target_result": 1,
-                  "progress": 0.6,
-                  "success": 1.22
+                  "progress": 1,
+                  "success": 1.54
                 },
                 {
                   "name": "Plan wedding (venue, date, guests)",
                   "current_result": 0.6,
                   "target_result": 1,
                   "progress": 0.6,
-                  "success": 1.22
+                  "success": 0.92
                 },
                 {
                   "name": "Set up and use personal CRM",
@@ -70,28 +70,28 @@
             {
               "name": "Start planning for the long term",
               "progress": 0.37,
-              "success": 0.75,
+              "success": 0.56,
               "key_results": [
                 {
                   "name": "[redacted]",
                   "current_result": 0.2,
                   "target_result": 1,
                   "progress": 0.2,
-                  "success": 0.41
+                  "success": 0.31
                 },
                 {
                   "name": "Get residence permit with HSM",
                   "current_result": 0.8,
                   "target_result": 1,
                   "progress": 0.8,
-                  "success": 1.63
+                  "success": 1.23
                 },
                 {
                   "name": "Finalize mortgage or rent for Q4",
                   "current_result": 0.1,
                   "target_result": 1,
                   "progress": 0.1,
-                  "success": 0.2
+                  "success": 0.15
                 }
               ]
             }
