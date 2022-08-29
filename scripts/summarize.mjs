@@ -187,16 +187,15 @@ export async function summarize() {
       </tr>
   ${objective.key_results
                 .map(
-                  (keyResult) => {
-                    console.log(keyResult.name, Math.round(keyResult.progress * 10), 10 - Math.round(keyResult.progress * 10));
-                    return `    <tr>
+                  (keyResult) =>
+                    `    <tr>
         <td>↳ ${keyResult.name}</td>
         <td>${roundTwoDecimals(keyResult.success * 100)}%</td>
-        <td>${"🟨".repeat(Math.round(keyResult.progress * 10))}${"⬜".repeat(
-                      10 - Math.round(keyResult.progress * 10)
+        <td>${"🟨".repeat(Math.min(10, Math.round(keyResult.progress * 10)))}${"⬜".repeat(
+                      Math.max(0, 10 - Math.round(keyResult.progress * 10))
                     )}</td>
         <td>${roundTwoDecimals(keyResult.progress * 100)}%</td>
-      </tr>`}
+      </tr>`
                 )
                 .join("\n")}`
           )
