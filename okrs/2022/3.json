@@ -34,12 +34,12 @@
         {
           "name": "Plan wedding (venue, date, guests)",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 0.7
         },
         {
           "name": "Set up and use personal CRM",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.1
         }
       ]
     },
