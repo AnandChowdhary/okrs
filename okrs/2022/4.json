@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2022,
+  "quarter": 4,
+  "objectives": [
+    {
+      "name": "Continue working on health goals",
+      "key_results": [
+        {
+          "name": "Work out 3 or more times weekly",
+          "target_result": 39,
+          "current_result": 0
+        },
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+        {
+          "name": "Do therapy 3 or more times monthly",
+          "target_result": 12,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Stop procrastinating on growth",
+      "key_results": [
+        {
+          "name": "Finalize city and apartment for 2023",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Properly prepare for all 1:1s",
+          "target_result": 12,
+          "current_result": 0
+        },
+        {
+          "name": "Set up and use personal CRM",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Get ready for 2023",
+      "key_results": [
+        {
+          "name": "Prepare for the wedding in Q1",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Document & reflect on 2022, set up theme",
+          "target_result": 12,
+          "current_result": 0
+        },
+        {
+          "name": "[OPEN]",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
