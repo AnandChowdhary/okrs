@@ -9,7 +9,7 @@
         {
           "name": "Work out 3 or more times weekly",
           "target_result": 39,
-          "current_result": 0
+          "current_result": 2
         },
         {
           "name": "Complete one book every month",
@@ -19,7 +19,7 @@
         {
           "name": "Do therapy 3 or more times monthly",
           "target_result": 12,
-          "current_result": 0
+          "current_result": 1
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "name": "Set up and use personal CRM",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.2
         }
       ]
     },
@@ -57,9 +57,9 @@
           "current_result": 0
         },
         {
-          "name": "[OPEN]",
+          "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.1
         }
       ]
     }
