@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2022-10-10T22:14:07.084Z",
+  "updatedAt": "2022-10-14T18:27:55.311Z",
   "years": [
     {
       "name": 2022,
       "progress": 0.39,
-      "success": 0.5,
+      "success": 0.49,
       "quarters": [
         {
           "name": 4,
           "progress": 0.05,
-          "success": 0.44,
+          "success": 0.32,
           "objectives": [
             {
               "name": "Continue working on health goals",
               "progress": 0.04,
-              "success": 0.41,
+              "success": 0.3,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
                   "current_result": 2,
                   "target_result": 39,
                   "progress": 0.05,
-                  "success": 0.47
+                  "success": 0.34
                 },
                 {
                   "name": "Complete one book every month",
@@ -35,14 +35,14 @@
                   "current_result": 1,
                   "target_result": 12,
                   "progress": 0.08,
-                  "success": 0.76
+                  "success": 0.56
                 }
               ]
             },
             {
               "name": "Stop procrastinating on growth",
               "progress": 0.07,
-              "success": 0.61,
+              "success": 0.44,
               "key_results": [
                 {
                   "name": "Finalize city and apartment for 2023",
@@ -63,14 +63,14 @@
                   "current_result": 0.2,
                   "target_result": 1,
                   "progress": 0.2,
-                  "success": 1.82
+                  "success": 1.33
                 }
               ]
             },
             {
               "name": "Get ready for 2023",
               "progress": 0.03,
-              "success": 0.3,
+              "success": 0.22,
               "key_results": [
                 {
                   "name": "Prepare for the wedding in Q1",
@@ -91,7 +91,7 @@
                   "current_result": 0.1,
                   "target_result": 1,
                   "progress": 0.1,
-                  "success": 0.91
+                  "success": 0.67
                 }
               ]
             }
