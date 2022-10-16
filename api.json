@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2022-10-14T18:28:26.638Z",
+  "updatedAt": "2022-10-16T15:43:18.202Z",
   "years": [
     {
       "name": 2022,
-      "progress": 0.39,
-      "success": 0.49,
+      "progress": 0.4,
+      "success": 0.5,
       "quarters": [
         {
           "name": 4,
-          "progress": 0.05,
-          "success": 0.32,
+          "progress": 0.09,
+          "success": 0.52,
           "objectives": [
             {
               "name": "Continue working on health goals",
-              "progress": 0.04,
-              "success": 0.3,
+              "progress": 0.08,
+              "success": 0.45,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
-                  "current_result": 2,
+                  "current_result": 3,
                   "target_result": 39,
-                  "progress": 0.05,
-                  "success": 0.34
+                  "progress": 0.08,
+                  "success": 0.43
                 },
                 {
                   "name": "Complete one book every month",
@@ -32,17 +32,17 @@
                 },
                 {
                   "name": "Do therapy 3 or more times monthly",
-                  "current_result": 1,
+                  "current_result": 2,
                   "target_result": 12,
-                  "progress": 0.08,
-                  "success": 0.56
+                  "progress": 0.17,
+                  "success": 0.93
                 }
               ]
             },
             {
               "name": "Stop procrastinating on growth",
-              "progress": 0.07,
-              "success": 0.44,
+              "progress": 0.13,
+              "success": 0.74,
               "key_results": [
                 {
                   "name": "Finalize city and apartment for 2023",
@@ -60,24 +60,24 @@
                 },
                 {
                   "name": "Set up and use personal CRM",
-                  "current_result": 0.2,
+                  "current_result": 0.4,
                   "target_result": 1,
-                  "progress": 0.2,
-                  "success": 1.33
+                  "progress": 0.4,
+                  "success": 2.22
                 }
               ]
             },
             {
               "name": "Get ready for 2023",
-              "progress": 0.03,
-              "success": 0.22,
+              "progress": 0.07,
+              "success": 0.37,
               "key_results": [
                 {
                   "name": "Prepare for the wedding in Q1",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 0.56
                 },
                 {
                   "name": "Document & reflect on 2022, set up theme",
@@ -91,7 +91,7 @@
                   "current_result": 0.1,
                   "target_result": 1,
                   "progress": 0.1,
-                  "success": 0.67
+                  "success": 0.56
                 }
               ]
             }
