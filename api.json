@@ -1,97 +1,97 @@
 {
-  "updatedAt": "2022-11-24T08:10:24.806Z",
+  "updatedAt": "2022-12-06T07:36:13.837Z",
   "years": [
     {
       "name": 2022,
-      "progress": 0.43,
-      "success": 0.48,
+      "progress": 0.46,
+      "success": 0.49,
       "quarters": [
         {
           "name": 4,
-          "progress": 0.23,
-          "success": 0.39,
+          "progress": 0.34,
+          "success": 0.47,
           "objectives": [
             {
               "name": "Continue working on health goals",
-              "progress": 0.17,
-              "success": 0.29,
+              "progress": 0.27,
+              "success": 0.38,
               "key_results": [
                 {
                   "name": "Work out 3 or more times weekly",
-                  "current_result": 4,
+                  "current_result": 6,
                   "target_result": 39,
-                  "progress": 0.1,
-                  "success": 0.17
+                  "progress": 0.15,
+                  "success": 0.21
                 },
                 {
                   "name": "Complete one book every month",
-                  "current_result": 0,
+                  "current_result": 0.5,
                   "target_result": 3,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.17,
+                  "success": 0.23
                 },
                 {
                   "name": "Do therapy 3 or more times monthly",
-                  "current_result": 5,
+                  "current_result": 6,
                   "target_result": 12,
-                  "progress": 0.42,
-                  "success": 0.71
+                  "progress": 0.5,
+                  "success": 0.69
                 }
               ]
             },
             {
               "name": "Stop procrastinating on growth",
-              "progress": 0.26,
-              "success": 0.43,
+              "progress": 0.34,
+              "success": 0.48,
               "key_results": [
                 {
                   "name": "Finalize city and apartment for 2023",
-                  "current_result": 0,
+                  "current_result": 0.2,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
-                },
-                {
-                  "name": "Properly prepare for all 1:1s",
-                  "current_result": 2,
-                  "target_result": 12,
-                  "progress": 0.17,
+                  "progress": 0.2,
                   "success": 0.28
                 },
                 {
+                  "name": "Properly prepare for all 1:1s",
+                  "current_result": 4,
+                  "target_result": 12,
+                  "progress": 0.33,
+                  "success": 0.46
+                },
+                {
                   "name": "Set up and use personal CRM",
-                  "current_result": 0.6,
+                  "current_result": 0.5,
                   "target_result": 1,
-                  "progress": 0.6,
-                  "success": 1.02
+                  "progress": 0.5,
+                  "success": 0.69
                 }
               ]
             },
             {
               "name": "Get ready for 2023",
-              "progress": 0.27,
-              "success": 0.45,
+              "progress": 0.4,
+              "success": 0.56,
               "key_results": [
                 {
                   "name": "Prepare for the wedding in Q1",
-                  "current_result": 0.3,
+                  "current_result": 0.5,
                   "target_result": 1,
-                  "progress": 0.3,
-                  "success": 0.51
+                  "progress": 0.5,
+                  "success": 0.69
                 },
                 {
                   "name": "Document & reflect on 2022, set up theme",
-                  "current_result": 0.2,
-                  "target_result": 1,
-                  "progress": 0.2,
-                  "success": 0.34
-                },
-                {
-                  "name": "[redacted]",
                   "current_result": 0.3,
                   "target_result": 1,
                   "progress": 0.3,
-                  "success": 0.51
+                  "success": 0.42
+                },
+                {
+                  "name": "[redacted]",
+                  "current_result": 0.4,
+                  "target_result": 1,
+                  "progress": 0.4,
+                  "success": 0.56
                 }
               ]
             }
