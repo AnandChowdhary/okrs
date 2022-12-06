@@ -9,17 +9,17 @@
         {
           "name": "Work out 3 or more times weekly",
           "target_result": 39,
-          "current_result": 4
+          "current_result": 6
         },
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 0
+          "current_result": 0.5
         },
         {
           "name": "Do therapy 3 or more times monthly",
           "target_result": 12,
-          "current_result": 5
+          "current_result": 6
         }
       ]
     },
@@ -29,17 +29,17 @@
         {
           "name": "Finalize city and apartment for 2023",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.2
         },
         {
           "name": "Properly prepare for all 1:1s",
           "target_result": 12,
-          "current_result": 2
+          "current_result": 4
         },
         {
           "name": "Set up and use personal CRM",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 0.5
         }
       ]
     },
@@ -49,17 +49,17 @@
         {
           "name": "Prepare for the wedding in Q1",
           "target_result": 1,
-          "current_result": 0.3
+          "current_result": 0.5
         },
         {
           "name": "Document & reflect on 2022, set up theme",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 0.3
         },
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.3
+          "current_result": 0.4
         }
       ]
     }
