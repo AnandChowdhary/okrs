@@ -27,3 +27,9 @@ jobs:
           commit_user_name: FindingAnand
           commit_user_email: bot@anandchowdhary.com
           commit_author: FindingAnand <bot@anandchowdhary.com>
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
