@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2023,
+  "quarter": 1,
+  "objectives": [
+    {
+      "name": "Kickstart 2023",
+      "key_results": [
+        {
+          "name": "Get married",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "Research real estate and view 10 apartments",
+          "target_result": 10,
+          "current_result": 0
+        },
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Work towards a strong mind",
+      "key_results": [
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+        {
+          "name": "Do therapy 2 or more times monthly",
+          "target_result": 24,
+          "current_result": 0
+        },
+        {
+          "name": "Properly review every week",
+          "target_result": 12,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Work towards a strong body",
+      "key_results": [
+        {
+          "name": "Work out 2 or more times weekly",
+          "target_result": 24,
+          "current_result": 0
+        },
+        {
+          "name": "Track calories every day",
+          "target_result": 92,
+          "current_result": 0
+        },
+        {
+          "name": "Lose 5 kg more",
+          "target_result": 5,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
