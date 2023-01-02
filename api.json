@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2023-01-01T11:49:05.087Z",
+  "updatedAt": "2023-01-02T21:43:18.694Z",
   "years": [
+    {
+      "name": 2023,
+      "progress": 0,
+      "success": 0,
+      "quarters": [
+        {
+          "name": 1,
+          "progress": 0,
+          "success": 0,
+          "objectives": [
+            {
+              "name": "Kickstart 2023",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Get married",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Research real estate and view 10 apartments",
+                  "current_result": 0,
+                  "target_result": 10,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "[redacted]",
+                  "current_result": 0,
+                  "target_result": 1,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Work towards a strong mind",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Complete one book every month",
+                  "current_result": 0,
+                  "target_result": 3,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Do therapy 2 or more times monthly",
+                  "current_result": 0,
+                  "target_result": 24,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Properly review every week",
+                  "current_result": 0,
+                  "target_result": 12,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            },
+            {
+              "name": "Work towards a strong body",
+              "progress": 0,
+              "success": 0,
+              "key_results": [
+                {
+                  "name": "Work out 2 or more times weekly",
+                  "current_result": 0,
+                  "target_result": 24,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Track calories every day",
+                  "current_result": 0,
+                  "target_result": 92,
+                  "progress": 0,
+                  "success": 0
+                },
+                {
+                  "name": "Lose 5 kg more",
+                  "current_result": 0,
+                  "target_result": 5,
+                  "progress": 0,
+                  "success": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": 2022,
       "progress": 0.48,
