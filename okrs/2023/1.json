@@ -9,7 +9,7 @@
         {
           "name": "Get married",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 1
         },
         {
           "name": "Research real estate and view 10 apartments",
@@ -19,7 +19,7 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0
+          "current_result": 0.2
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "name": "Track calories every day",
           "target_result": 92,
-          "current_result": 0
+          "current_result": 3
         },
         {
           "name": "Lose 5 kg more",
