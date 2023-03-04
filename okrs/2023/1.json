@@ -19,7 +19,7 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.3
+          "current_result": 0.4
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "name": "Do therapy 2 or more times monthly",
           "target_result": 24,
-          "current_result": 1
+          "current_result": 2
         },
         {
           "name": "Properly review every week",
@@ -49,7 +49,7 @@
         {
           "name": "Work out 2 or more times weekly",
           "target_result": 24,
-          "current_result": 5
+          "current_result": 7
         },
         {
           "name": "Track calories every day",
@@ -59,7 +59,7 @@
         {
           "name": "Lose 5 kg more",
           "target_result": 5,
-          "current_result": 0
+          "current_result": 1.5
         }
       ]
     }
