@@ -20,13 +20,13 @@ I use **Objectives and Key Results** both for my personal and professional life 
     <tbody>
       <tr>
         <td><strong>Kickstart 2023</strong></td>
-        <td><strong>68%</strong></td>
+        <td><strong>51%</strong></td>
         <td>🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜</td>
         <td><strong>47%</strong></td>
       </tr>
       <tr>
         <td>↳ Get married</td>
-        <td>145%</td>
+        <td>109%</td>
         <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨</td>
         <td>100%</td>
       </tr>
@@ -38,15 +38,15 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ [redacted]</td>
-        <td>58%</td>
+        <td>43%</td>
         <td>🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜</td>
         <td>40%</td>
       </tr>
     <tr>
         <td><strong>Work towards a strong mind</strong></td>
-        <td><strong>4%</strong></td>
-        <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>3%</strong></td>
+        <td><strong>6%</strong></td>
+        <td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>6%</strong></td>
       </tr>
       <tr>
         <td>↳ Complete one book every month</td>
@@ -56,9 +56,9 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td>↳ Do therapy 2 or more times monthly</td>
-        <td>12%</td>
-        <td>🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>8%</td>
+        <td>18%</td>
+        <td>🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜</td>
+        <td>17%</td>
       </tr>
     <tr>
         <td>↳ Properly review every week</td>
@@ -68,25 +68,25 @@ I use **Objectives and Key Results** both for my personal and professional life 
       </tr>
     <tr>
         <td><strong>Work towards a strong body</strong></td>
-        <td><strong>30%</strong></td>
-        <td>🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜</td>
-        <td><strong>21%</strong></td>
+        <td><strong>46%</strong></td>
+        <td>🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜</td>
+        <td><strong>42%</strong></td>
       </tr>
       <tr>
         <td>↳ Work out 2 or more times weekly</td>
-        <td>42%</td>
-        <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
-        <td>29%</td>
+        <td>100%</td>
+        <td>🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜</td>
+        <td>92%</td>
       </tr>
     <tr>
         <td>↳ Track calories every day</td>
-        <td>5%</td>
+        <td>4%</td>
         <td>⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td>3%</td>
       </tr>
     <tr>
         <td>↳ Lose 5 kg more</td>
-        <td>43%</td>
+        <td>33%</td>
         <td>🟨🟨🟨⬜⬜⬜⬜⬜⬜⬜</td>
         <td>30%</td>
       </tr>
