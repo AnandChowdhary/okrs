@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2023-03-25T12:18:35.038Z",
+  "updatedAt": "2023-04-02T15:17:33.034Z",
   "years": [
     {
       "name": 2023,
-      "progress": 0.32,
-      "success": 1.39,
+      "progress": 0.36,
+      "success": 1.44,
       "quarters": [
         {
           "name": 1,
-          "progress": 0.32,
-          "success": 0.34,
+          "progress": 0.36,
+          "success": 0.36,
           "objectives": [
             {
               "name": "Kickstart 2023",
-              "progress": 0.47,
-              "success": 0.51,
+              "progress": 0.53,
+              "success": 0.53,
               "key_results": [
                 {
                   "name": "Get married",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 1.09
+                  "success": 1
                 },
                 {
                   "name": "Research real estate and view 10 apartments",
@@ -32,10 +32,10 @@
                 },
                 {
                   "name": "[redacted]",
-                  "current_result": 0.4,
+                  "current_result": 0.6,
                   "target_result": 1,
-                  "progress": 0.4,
-                  "success": 0.43
+                  "progress": 0.6,
+                  "success": 0.6
                 }
               ]
             },
@@ -56,7 +56,7 @@
                   "current_result": 4,
                   "target_result": 24,
                   "progress": 0.17,
-                  "success": 0.18
+                  "success": 0.17
                 },
                 {
                   "name": "Properly review every week",
@@ -69,29 +69,29 @@
             },
             {
               "name": "Work towards a strong body",
-              "progress": 0.42,
-              "success": 0.46,
+              "progress": 0.49,
+              "success": 0.49,
               "key_results": [
                 {
                   "name": "Work out 2 or more times weekly",
-                  "current_result": 22,
+                  "current_result": 27,
                   "target_result": 24,
-                  "progress": 0.92,
-                  "success": 1
+                  "progress": 1.13,
+                  "success": 1.13
                 },
                 {
                   "name": "Track calories every day",
                   "current_result": 3,
                   "target_result": 92,
                   "progress": 0.03,
-                  "success": 0.04
+                  "success": 0.03
                 },
                 {
                   "name": "Lose 5 kg more",
                   "current_result": 1.5,
                   "target_result": 5,
                   "progress": 0.3,
-                  "success": 0.33
+                  "success": 0.3
                 }
               ]
             }
