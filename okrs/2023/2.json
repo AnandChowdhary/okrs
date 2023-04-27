@@ -1,0 +1,47 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2023,
+  "quarter": 2,
+  "objectives": [
+    {
+      "name": "Make big changes",
+      "key_results": [
+        {
+          "name": "Successful trip to India",
+          "target_result": 1,
+          "current_result": 1
+        },
+        {
+          "name": "Launch [redacted]",
+          "target_result": 1,
+          "current_result": 0.3
+        },
+        {
+          "name": "Weigh 70 kg by Q3",
+          "target_result": 5,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Stronger health after recharging",
+      "key_results": [
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+        {
+          "name": "Go to the gym 20 times after April",
+          "target_result": 20,
+          "current_result": 0
+        },
+        {
+          "name": "Continue therapy after April",
+          "target_result": 6,
+          "current_result": 0
+        }
+      ]
+    },
+  ]
+}
