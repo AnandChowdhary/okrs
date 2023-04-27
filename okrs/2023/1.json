@@ -19,7 +19,7 @@
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.6
+          "current_result": 1
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "name": "Complete one book every month",
           "target_result": 3,
-          "current_result": 0
+          "current_result": 1
         },
         {
           "name": "Do therapy 2 or more times monthly",
