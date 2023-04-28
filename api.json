@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2023-04-27T07:27:37.399Z",
+  "updatedAt": "2023-04-28T20:52:54.525Z",
   "years": [
     {
       "name": 2023,
@@ -9,26 +9,26 @@
         {
           "name": 2,
           "progress": 0.22,
-          "success": 0.78,
+          "success": 0.7,
           "objectives": [
             {
               "name": "Make big changes",
               "progress": 0.43,
-              "success": 1.55,
+              "success": 1.4,
               "key_results": [
                 {
                   "name": "Successful trip to India",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 3.57
+                  "success": 3.23
                 },
                 {
                   "name": "Launch [redacted]",
                   "current_result": 0.3,
                   "target_result": 1,
                   "progress": 0.3,
-                  "success": 1.07
+                  "success": 0.97
                 },
                 {
                   "name": "Weigh 70 kg by Q3",
