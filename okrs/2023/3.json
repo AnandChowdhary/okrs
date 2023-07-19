@@ -1,0 +1,47 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2023,
+  "quarter": 3,
+  "objectives": [
+    {
+      "name": "Settle in to Utrecht",
+      "key_results": [
+        {
+          "name": "Move in to new apartment",
+          "target_result": 1,
+          "current_result": 1
+        },
+        {
+          "name": "Finish activity rings every other day",
+          "target_result": 37,
+          "current_result": 1
+        },
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        },
+      ]
+    },
+    {
+      "name": "Settle in to Utrecht",
+      "key_results": [
+        {
+          "name": "Buy a new home",
+          "target_result": 1,
+          "current_result": 0.2
+        },
+        {
+          "name": "Write something every other week",
+          "target_result": 5,
+          "current_result": 0
+        },
+        {
+          "name": "Publicly launch [redacted]",
+          "target_result": 3,
+          "current_result": 0
+        },
+      ]
+    },
+  ]
+}
