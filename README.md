@@ -43,7 +43,7 @@ I use **Objectives and Key Results** both for my personal and professional life 
         <td>0%</td>
       </tr>
     <tr>
-        <td><strong>Settle in to Utrecht</strong></td>
+        <td><strong>Draw the big picture</strong></td>
         <td><strong>32%</strong></td>
         <td>🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜</td>
         <td><strong>7%</strong></td>
