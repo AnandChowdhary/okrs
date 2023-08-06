@@ -14,7 +14,7 @@
         {
           "name": "Finish activity rings every other day",
           "target_result": 37,
-          "current_result": 1
+          "current_result": 8
         },
         {
           "name": "Complete one book every month",
@@ -29,7 +29,7 @@
         {
           "name": "Buy a new home",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 0.25
         },
         {
           "name": "Write something every other week",
@@ -38,8 +38,8 @@
         },
         {
           "name": "Publicly launch [redacted]",
-          "target_result": 3,
-          "current_result": 0
+          "target_result": 1,
+          "current_result": 0.2
         }
       ]
     }
