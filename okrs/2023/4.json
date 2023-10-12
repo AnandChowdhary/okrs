@@ -1,0 +1,47 @@
+{
+  "$schema": "https://anandchowdhary.github.io/okrs/schema.json",
+  "year": 2023,
+  "quarter": 4,
+  "objectives": [
+    {
+      "name": "Successful Year of Relashionships",
+      "key_results": [
+        {
+          "name": "Make 20 outbound calls",
+          "target_result": 20,
+          "current_result": 0
+        },
+        {
+          "name": "Finish activity rings every other day",
+          "target_result": 37,
+          "current_result": 3
+        },
+        {
+          "name": "Complete one book every month",
+          "target_result": 3,
+          "current_result": 0
+        }
+      ]
+    },
+    {
+      "name": "Become personally default-alive",
+      "key_results": [
+        {
+          "name": "Track finances every week",
+          "target_result": 12,
+          "current_result": 2
+        },
+        {
+          "name": "Save for new house",
+          "target_result": 1,
+          "current_result": 0
+        },
+        {
+          "name": "[redacted]",
+          "target_result": 1,
+          "current_result": 0
+        }
+      ]
+    }
+  ]
+}
