@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2023-10-12T10:27:52.269Z",
+  "updatedAt": "2023-10-12T12:55:34.289Z",
   "years": [
     {
       "name": 2023,
@@ -9,12 +9,12 @@
         {
           "name": 4,
           "progress": 0.05,
-          "success": 0.35,
+          "success": 0.32,
           "objectives": [
             {
               "name": "Successful Year of Relashionships",
               "progress": 0.03,
-              "success": 0.23,
+              "success": 0.21,
               "key_results": [
                 {
                   "name": "Make 20 outbound calls",
@@ -28,7 +28,7 @@
                   "current_result": 3,
                   "target_result": 37,
                   "progress": 0.08,
-                  "success": 0.68
+                  "success": 0.62
                 },
                 {
                   "name": "Complete one book every month",
@@ -42,14 +42,14 @@
             {
               "name": "Become personally default-alive",
               "progress": 0.06,
-              "success": 0.46,
+              "success": 0.43,
               "key_results": [
                 {
                   "name": "Track finances every week",
                   "current_result": 2,
                   "target_result": 12,
                   "progress": 0.17,
-                  "success": 1.39
+                  "success": 1.28
                 },
                 {
                   "name": "Save for new house",
