@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2023-10-12T13:03:11.228Z",
+  "updatedAt": "2023-10-23T12:31:03.036Z",
   "years": [
     {
       "name": 2023,
-      "progress": 0.36,
-      "success": 0.46,
+      "progress": 0.4,
+      "success": 0.49,
       "quarters": [
         {
           "name": 4,
-          "progress": 0.05,
-          "success": 0.32,
+          "progress": 0.19,
+          "success": 0.75,
           "objectives": [
             {
               "name": "Successful Year of Relashionships",
-              "progress": 0.03,
-              "success": 0.21,
+              "progress": 0.19,
+              "success": 0.76,
               "key_results": [
                 {
                   "name": "Make 20 outbound calls",
-                  "current_result": 0,
+                  "current_result": 2,
                   "target_result": 20,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 0.4
                 },
                 {
                   "name": "Finish activity rings every other day",
-                  "current_result": 3,
+                  "current_result": 5,
                   "target_result": 37,
-                  "progress": 0.08,
-                  "success": 0.62
+                  "progress": 0.14,
+                  "success": 0.54
                 },
                 {
                   "name": "Complete one book every month",
-                  "current_result": 0,
+                  "current_result": 1,
                   "target_result": 3,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.33,
+                  "success": 1.33
                 }
               ]
             },
             {
               "name": "Become personally default-alive",
-              "progress": 0.06,
-              "success": 0.43,
+              "progress": 0.18,
+              "success": 0.73,
               "key_results": [
                 {
                   "name": "Track finances every week",
-                  "current_result": 2,
+                  "current_result": 3,
                   "target_result": 12,
-                  "progress": 0.17,
-                  "success": 1.28
+                  "progress": 0.25,
+                  "success": 1
                 },
                 {
                   "name": "Save for new house",
-                  "current_result": 0,
+                  "current_result": 0.2,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.2,
+                  "success": 0.8
                 },
                 {
                   "name": "[redacted]",
-                  "current_result": 0,
+                  "current_result": 0.1,
                   "target_result": 1,
-                  "progress": 0,
-                  "success": 0
+                  "progress": 0.1,
+                  "success": 0.4
                 }
               ]
             }
