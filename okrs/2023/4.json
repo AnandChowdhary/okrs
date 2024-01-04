@@ -14,7 +14,7 @@
         {
           "name": "Finish activity rings every other day",
           "target_result": 37,
-          "current_result": 5
+          "current_result": 21
         },
         {
           "name": "Complete one book every month",
@@ -29,17 +29,17 @@
         {
           "name": "Track finances every week",
           "target_result": 12,
-          "current_result": 3
+          "current_result": 10
         },
         {
           "name": "Save for new house",
           "target_result": 1,
-          "current_result": 0.2
+          "current_result": 1
         },
         {
           "name": "[redacted]",
           "target_result": 1,
-          "current_result": 0.1
+          "current_result": 0.6
         }
       ]
     }
