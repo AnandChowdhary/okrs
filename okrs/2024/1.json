@@ -9,7 +9,7 @@
         {
           "name": "Fully move from rental to owned house",
           "target_result": 1,
-          "current_result": 0.75
+          "current_result": 1
         },
         {
           "name": "Furnish and set up workspace",
@@ -19,7 +19,7 @@
         {
           "name": "Update registrations and legal work",
           "target_result": 1,
-          "current_result": 0.5
+          "current_result": 1
         }
       ]
     },
@@ -39,7 +39,7 @@
         {
           "name": "Publicly launch new company",
           "target_result": 1,
-          "current_result": 0.25
+          "current_result": 1
         }
       ]
     }
