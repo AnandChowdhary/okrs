@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2024-02-04T19:02:03.906Z",
+  "updatedAt": "2024-02-26T15:45:00.633Z",
   "years": [
     {
       "name": 2024,
-      "progress": 0.54,
-      "success": 5.4,
+      "progress": 0.79,
+      "success": 4.94,
       "quarters": [
         {
           "name": 1,
-          "progress": 0.54,
-          "success": 1.43,
+          "progress": 0.79,
+          "success": 1.27,
           "objectives": [
             {
               "name": "Move in to new house",
-              "progress": 0.75,
-              "success": 1.97,
+              "progress": 1,
+              "success": 1.61,
               "key_results": [
                 {
                   "name": "Fully move from rental to owned house",
-                  "current_result": 0.75,
+                  "current_result": 1,
                   "target_result": 1,
-                  "progress": 0.75,
-                  "success": 1.97
+                  "progress": 1,
+                  "success": 1.61
                 },
                 {
                   "name": "Furnish and set up workspace",
                   "current_result": 1,
                   "target_result": 1,
                   "progress": 1,
-                  "success": 2.63
+                  "success": 1.61
                 },
                 {
                   "name": "Update registrations and legal work",
-                  "current_result": 0.5,
+                  "current_result": 1,
                   "target_result": 1,
-                  "progress": 0.5,
-                  "success": 1.32
+                  "progress": 1,
+                  "success": 1.61
                 }
               ]
             },
             {
               "name": "Strong start to 2024",
-              "progress": 0.33,
-              "success": 0.88,
+              "progress": 0.58,
+              "success": 0.94,
               "key_results": [
                 {
                   "name": "Track finances every week",
                   "current_result": 5,
                   "target_result": 12,
                   "progress": 0.42,
-                  "success": 1.1
+                  "success": 0.67
                 },
                 {
                   "name": "Write 1 blog post every month",
                   "current_result": 1,
                   "target_result": 3,
                   "progress": 0.33,
-                  "success": 0.88
+                  "success": 0.54
                 },
                 {
                   "name": "Publicly launch new company",
-                  "current_result": 0.25,
+                  "current_result": 1,
                   "target_result": 1,
-                  "progress": 0.25,
-                  "success": 0.66
+                  "progress": 1,
+                  "success": 1.61
                 }
               ]
             }
